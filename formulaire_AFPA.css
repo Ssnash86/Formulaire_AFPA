@@ -1,0 +1,46 @@
+.Formulaire{
+    width: 400px;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}   
+
+.Formulaire_Main{
+    display: flex;
+    justify-content: space-between;
+    gap: 2em;
+     
+}
+.All{
+    border: solid 2px #219021;
+    border-radius: 2%;
+    padding: 2%;
+}
+button{
+    height: 4em;
+    width: 100%;
+    background-color: #008000;
+    margin-top: 0.5em;
+}
+.Bouton{
+    
+    border-top: solid 2px #006A00;
+    margin-top: 2em;
+    
+}
+.input{
+    height: 40px;
+}
+
+#Main{
+margin: 0 300px ;
+   
+}
+h2{
+    font-size: 15px;
+}
+#Commentaire{
+    height: 10em;
+}
